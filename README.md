@@ -44,10 +44,12 @@
 ### External Resources
 
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
+- [VueDaily - Daily wise updates on Vue.JS. Tutorials, resources, Plugins.] (http://vuedaily.com)
 
 ### Community
 
 - [Twitter](https://twitter.com/vuejs)
+- [Facebook](https://www.facebook.com/vuejs.org)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
 
@@ -83,6 +85,7 @@
 - [A Quick Introduction to Vue.js](http://mattsparks.com/a-quick-introduction-to-vue-js/) by Matt Sparks <sup>0.12</sup>
 - [Getting Started with Vue.js + vue-router](https://www.youtube.com/watch?v=QN7l3ydXvx0) by Michael Calkins <sup>0.12</sup>
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
+- [Your First VueJS App](http://coderexample.com/your-first-vuejs-app/) by Arkaprava majumder <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 
 ### Tools
